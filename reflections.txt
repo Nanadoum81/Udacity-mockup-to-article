@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+* The new skills that I have learned are HTML5, the different element tags that like the <sup></sup> tags which is short for superscripted and it used for typographical reason and it changes the position of the text. I also learned how to use the <del></del> tag which  puts a line through the text. I have learned a lot new skills.
+
+*The easiest part of this assignment was sorting the paragraphs, using the <p> to group the content and using the correct heading tags such as <h1> and <h2> to match the article. 
+
+* I did not find anything difficult during this assignment, I was able to complete this assignment.
+
+* The problem solving strategies that I used  to overcome challenges so far was to utilized the resources available to me, such as MDN website, google, and stack overflow. I  was able to find the HTML tags needed to complete this project and to understand content structures when segmenting this article.
